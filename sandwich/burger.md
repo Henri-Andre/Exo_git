@@ -1,17 +1,11 @@
-Pain
-
-Sauce
-
-Oignon
+Steak
 
 Salade
 
 Tomate
 
-Steak
+Cornichon
 
 Fromage
-
-Pain
 
 ![Burger](./BigTasty-25Juillet-McDonalds.jpg)
