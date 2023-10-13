@@ -1,15 +1,11 @@
-Pain
+Pavé de poulet
 
 Sauce
 
-Oignon
-
 Bacon
 
-Cheddar
+Fromage
 
 Pavé de poulet
 
-Pain
-
-![Burger](./grande_374_mcdonalds_FR_CBO_Chicken_Bacon_Oignons_b_03.jpg)
+![Burger](./kfc-double-down-poulet-frit.jpg)
