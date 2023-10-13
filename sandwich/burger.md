@@ -4,14 +4,12 @@ Sauce
 
 Oignon
 
-Tomate
+Bacon
 
 Cheddar
 
-Steak
-
-Fromage
+Pavé de poulet
 
 Pain
 
-![Burger](./Screenshot_1-2-700x342.png)
+![Burger](./grande_374_mcdonalds_FR_CBO_Chicken_Bacon_Oignons_b_03.jpg)
